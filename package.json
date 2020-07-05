@@ -1,0 +1,15 @@
+{
+  "name": "nlw",
+  "version": "1.0.0",
+  "description": "Projeto Ecoleta feito na NEXT LEVEL Week",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jeferson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
